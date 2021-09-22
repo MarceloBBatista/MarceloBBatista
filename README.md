@@ -2,7 +2,7 @@
 
 - 🔭 No momento estou cursando Ciências da Computação 4° Período (Unp).
 - 🏠 Moro em Natal/RN
-- 💻 Tenho conhecimento em C++,C#,Java,NodeJS,MySQL.
+- 💻 Tenho conhecimento em C++,C#,Java,JavaScript,NodeJS,MySQL.
 
 <div>
   <a href="https://github.com/MarceloBBatista">
