@@ -13,6 +13,8 @@
 <div style="display: inline_block"><br>
   <img align="center" lt="Marcelo-J" height="50" width="60"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+   <img align="center" lt="Marcelo-JScript" height="50" width="60"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" lt="Marcelo-C" height="50" width="60"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" lt="Marcelo-CSharp" height="50" width="60"
