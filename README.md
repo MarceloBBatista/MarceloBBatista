@@ -1,6 +1,6 @@
 ### Hi! I'm Marcelo Bezerra Batista 👋
 
-- 🔭 No momento estou cursando Ciências da Computação 8° Período (Unp).
+- 🔭 Bacharel em Ciências da Computação.
 - 🏠 Moro em Natal/RN
 - 💻 Tenho conhecimento em C++,C#,Java,JavaScript,NodeJS,MySQL.
 
