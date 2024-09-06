@@ -1,6 +1,7 @@
 ### Hi! I'm Marcelo Bezerra Batista 👋
 
 - 🔭 Bacharel em Ciências da Computação.
+- Atualmente Pós-Graduação em Inteligência Artificial IA
 - 🏠 Moro em Natal/RN
 - 💻 Tenho conhecimento em C++,C#,Java,JavaScript,NodeJS,MySQL.
 
